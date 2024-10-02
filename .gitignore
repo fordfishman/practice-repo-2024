@@ -1,0 +1,6 @@
+super_secret_private.csv
+results/*
+results/*secret*
+results/*.csv
+
+
